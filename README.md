@@ -1,0 +1,1 @@
+Clone Project, then add the facebook sdk as a module in Android Studio. Build and enjoy. 
